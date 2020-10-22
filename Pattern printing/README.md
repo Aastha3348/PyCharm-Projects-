@@ -9,16 +9,7 @@
   and there have to be at least one one or multiple inner loops which will print character or space as per our 
   requirement in increasing or decreasing progression or constant some times.
   
- ## Different Patterns in Python
-   - Number Pattern
-   - Triangle Pattern with Number
-   - Star (*) or Asterisk Pattern
-   - Pyramid pattern
-   - Inverted pyramid pattern
-   - Half pyramid pattern
-   - Diamond Shaped Pattern
-   - Characters or Alphabets Pattern
-   - Square pattern
+ ## For more patterns look into the " Pattern Printing " Repository
   
   ## Languages used 
   ### Python
