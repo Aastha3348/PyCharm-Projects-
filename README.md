@@ -11,7 +11,7 @@
   - PyCharm provides smart code completion, code inspections, on-the-fly error highlighting and quick-fixes, along with automated code.
   - #### Developer of the IDE is JetBrains
 
-### Languages used
+## Languages used
   ### Python
   - Python is an interpreted, high-level and general-purpose programming language.
   - Created by Guido van Rossum and first released in 1991.
