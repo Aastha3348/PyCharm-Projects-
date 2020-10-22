@@ -9,7 +9,7 @@
   and there have to be at least one one or multiple inner loops which will print character or space as per our 
   requirement in increasing or decreasing progression or constant some times.
   
- ## For more patterns look into the " Pattern Printing " Repository
+ ## NOTE - For more patterns look into the " Pattern Printing " Repository
   
   ## Languages used 
   ### Python
